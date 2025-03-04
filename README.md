@@ -9,3 +9,5 @@ Matthew Alegrado, Mary Vu, Gustavo Alburez, Iso Delgado, Myungjoo Kim, Nayoung K
 ## Dataset
 
 https://www.physionet.org/content/eegmmidb/1.0.0/
+
+Make sure the dataset folder "files" is extracted into the same directory as the project notebook.
